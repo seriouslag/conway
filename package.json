@@ -4,7 +4,8 @@
   "description": "",
   "main": "src/index.ts",
   "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "build": "tsc && vite build"
   },
   "author": "",
   "license": "ISC",
